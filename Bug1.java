@@ -8,6 +8,7 @@ public class Bug1 {
             }
             System.out.println(); 
         // Find the Error and Stock the Overflow
+            // It SHould Print a Reverse Pyramid
         }
     }
 }
